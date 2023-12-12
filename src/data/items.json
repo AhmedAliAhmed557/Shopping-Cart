@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Headphone",
+    "price": 260,
+    "imgUrl": "/imgs/headphone.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "iPhone",
+    "price": 1.05,
+    "imgUrl": "/imgs/iphone.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 14000,
+    "imgUrl": "/imgs/car1.jpg"
+  },
+  {
+  "id": 5,
+  "name": "laptop",
+  "price": 22000,
+  "imgUrl": "/imgs/laptop.jpg"
+},
+{
+  "id": 6,
+  "name": "Oppo-Reno",
+  "price": 15000,
+  "imgUrl": "/imgs/phone2.webp"
+},
+{
+  "id": 7,
+  "name": "Watch",
+  "price": 560,
+  "imgUrl": "/imgs/watch.jpg"
+},
+{
+  "id": 8,
+  "name": "iPab",
+  "price": 2400,
+  "imgUrl": "/imgs/ipad.jpg"
+},
+  {
+    "id": 9,
+    "name": "Car",
+    "price": 88000,
+    "imgUrl": "/imgs/car2.jpg"
+  },
+  {
+  "id": 10,
+  "name": "iPad Pro",
+  "price": 7300,
+  "imgUrl": "/imgs/ipad-pro.jpg"
+},
+{
+  "id": 11,
+  "name": "Glasses",
+  "price": 240,
+  "imgUrl": "/imgs/glasses.jpg"
+},
+{
+  "id": 12,
+  "name": "Apple",
+  "price": 32500,
+  "imgUrl": "/imgs/apples.avif"
+}
+]
